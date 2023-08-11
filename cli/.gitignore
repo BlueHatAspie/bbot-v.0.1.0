@@ -1,0 +1,7 @@
+TODO.md
+FormatSpecifications.md
+/.vscode
+/__pycache__
+*.test.py
+*.pyc
+/__pycache__
